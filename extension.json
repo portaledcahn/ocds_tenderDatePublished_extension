@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Tender Date Published"
+  },
+  "description": {
+    "en": "Adds a date field to indicate when the tender was published."
+  },
+  "documentationUrl": {
+    "en": ""
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
