@@ -2,7 +2,7 @@
   "definitions": {
     "Tender": {
       "properties": {
-        "datePublished ": {
+        "datePublished": {
           "title": "Date tender was published",
           "description": "The date the tender was published.",
           "type": [

@@ -9,7 +9,7 @@ To satisfy such use cases, this extension adds a date field to the tender sectio
 ```json
 {
 	"tender": {
-		"datePublished": "2019-23-7T1:27:10.673000-06:00"
+		"datePublished": "2019-07-23T1:27:10.673000-06:00"
 	}
 }
 ```
