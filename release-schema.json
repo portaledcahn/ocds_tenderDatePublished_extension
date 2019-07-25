@@ -3,8 +3,8 @@
     "Tender": {
       "properties": {
         "datePublished": {
-          "title": "Date tender was published",
-          "description": "The date the tender was published.",
+          "title": "Date Published",
+          "description": "The date when the tender was published.",
           "type": [
             "string",
             "null"
